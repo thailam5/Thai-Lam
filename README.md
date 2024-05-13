@@ -1,5 +1,5 @@
 # About Me
-Learn more about me.
+As a seasoned data scientist and strategic leader at Lockheed Martin, I bring a unique blend of technical prowess and business acumen honed through a Bachelor of Science in Electrical Engineering, a Master of Business Administration, and an Applied Data Science certification from the Massachusetts Institute of Technology. Proficient in Python and specializing in AI/NLP, I have spearheaded the deployment of transformative AI solutions, driving long-term strategies and fostering operational efficiency. With a talent for translating complex technical concepts into actionable insights for non-technical stakeholders, I excel in fostering collaboration and driving success. I am eager to leverage my expertise and leadership skills in a team manager role focused on artificial intelligence.
 
 # Skills
  * ⭐⭐⭐⭐⭐ Python
@@ -15,6 +15,13 @@ Learn more about me.
   
 # Projects
 ## Competitive Intelligence
+![Static Badge](https://img.shields.io/badge/PYTHON-x?logo=python&color=white)
+![Static Badge](https://img.shields.io/badge/🤗HUGGINGFACE-x?color=blue)
+![Static Badge](https://img.shields.io/badge/NEO4J-x?logo=neo4j&color=black)
+![Static Badge](https://img.shields.io/badge/SQLSERVER-x?logo=microsoftsqlserver&color=red)
+![Static Badge](https://img.shields.io/badge/FASTAPI-x?logo=fastapi&color=gray)
+![Static Badge](https://img.shields.io/badge/TABLEAU-x?logo=tableau&color=purple)
+![Static Badge](https://img.shields.io/badge/POSTMAN-x?logo=postman&color=green)
 ### Project Description: 
 The competitive landscape in today's business environment necessitates comprehensive and dynamic intelligence tools to empower analysts with actionable insights. In response to this need, our organization has developed an internal application, a robust competitive intelligence tool utilized by analysts across various departments. The application serves as a centralized repository housing detailed information on competitors, including their financial metrics, current status, and pertinent government documents and news articles. This wealth of data enables analysts to gain deep insights into the competitive landscape.
 
@@ -30,15 +37,11 @@ An API endpoint has been developed to facilitate seamless integration with other
 
 To provide stakeholders with comprehensive insights into the adoption and utilization of the application, adoption analytics dashboards have been developed using Tableau. These dashboards offer visualizations and metrics, empowering decision-makers with actionable intelligence on the tool's usage and impact.
 
-![Static Badge](https://img.shields.io/badge/PYTHON-x?style=plastic&logo=python&color=white)
-![Static Badge](https://img.shields.io/badge/🤗HUGGINGFACE-x?style=plastic&color=blue)
-![Static Badge](https://img.shields.io/badge/NEO4J-x?style=plastic&logo=neo4j&color=black)
-![Static Badge](https://img.shields.io/badge/SQLSERVER-x?style=plastic&logo=microsoftsqlserver&color=red)
-![Static Badge](https://img.shields.io/badge/FASTAPI-x?style=plastic&logo=fastapi&color=gray)
-![Static Badge](https://img.shields.io/badge/TABLEAU-x?style=plastic&logo=tableau&color=purple)
-![Static Badge](https://img.shields.io/badge/POSTMAN-x?style=plastic&logo=postman&color=green)
-
 ## New Employee Home Page
+![Static Badge](https://img.shields.io/badge/PYTHON-x?logo=python&color=white)
+![Static Badge](https://img.shields.io/badge/🤗HUGGINGFACE-x?color=blue)
+![Static Badge](https://img.shields.io/badge/DYNATRACE-x?logo=dynatrace&color=gold)
+![Static Badge](https://img.shields.io/badge/TABLEAU-x?logo=tableau&color=purple)
 ### Project Description:
 The New Employee Home Page represents a pivotal step in the organization's Digital Transformation journey, serving as a strategic tool to streamline employee experiences and enhance operational efficiency. As a comprehensive employee homepage hosted within the SAP Workzone framework, the site integrates essential functionalities such as a chatbot, search engine, pay details, benefits information, and other HR-related resources. This centralized platform empowers employees with easy access to critical information, thereby fostering productivity and engagement across the organization.
 
@@ -57,23 +60,6 @@ To provide stakeholders with actionable insights and performance metrics, Tablea
 <b>User Feedback Analysis and NLP Tasks:</b>
 
 Utilizing Qualtrics, user feedback has been systematically collected and analyzed to gauge user satisfaction and identify areas for improvement. Furthermore, natural language processing (NLP) tasks have been performed on free-range text fields, enabling sentiment analysis and qualitative insights extraction to inform iterative enhancements.
-
-![Static Badge](https://img.shields.io/badge/PYTHON-x?style=plastic&logo=python&color=white)
-![Static Badge](https://img.shields.io/badge/🤗HUGGINGFACE-x?style=plastic&color=blue)
-![Static Badge](https://img.shields.io/badge/DYNATRACE-x?style=plastic&logo=dynatrace&color=gold)
-![Static Badge](https://img.shields.io/badge/TABLEAU-x?style=plastic&logo=tableau&color=purple)
-
-## Adoption Analytics
-### Project Description:
-Placeholder
-
-![Static Badge](https://img.shields.io/badge/PYTHON-x?style=plastic&logo=python&color=white)
-![Static Badge](https://img.shields.io/badge/🤗HUGGINGFACE-x?style=plastic&color=blue)
-![Static Badge](https://img.shields.io/badge/AWS-x?style=plastic&logo=AmazonAWS&color=orange)
-![Static Badge](https://img.shields.io/badge/POSTGRESQL-x?style=plastic&logo=postgresql&color=white)
-![Static Badge](https://img.shields.io/badge/DYNATRACE-x?style=plastic&logo=dynatrace&color=gold)
-![Static Badge](https://img.shields.io/badge/TABLEAU-x?style=plastic&logo=tableau&color=purple)
-
 
 # Education
 ## Louisiana State University (May 2024)
